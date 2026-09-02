@@ -1,0 +1,2 @@
+[2025-05-09 05:37:30,595] epo 500 mode test threshold 0.015 action classifier ntu_classifier accuracy: 0.077, test fid 2203.755, train fid 2443.716, smoothness gt 0.119, smoothness 1.614, div at 100frame 0.000
+[2025-05-11 11:12:29,451] epo 500 mode test threshold 0.025 action classifier ntu_classifier accuracy: 0.077, test fid 1898.611, train fid 2311.077, smoothness gt 0.119, smoothness 2.413, div at 100frame 0.000

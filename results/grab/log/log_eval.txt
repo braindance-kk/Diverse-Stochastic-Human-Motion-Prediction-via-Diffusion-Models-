@@ -1,0 +1,17 @@
+[2025-04-16 11:37:39,617] epo 500 mode test threshold 0.015 action classifier grab_classifier accuracy: 0.380, test fid 55.622, train fid 19.935, smoothness gt 0.049, smoothness 1.886, div at 100frame 0.000
+[2025-04-19 17:39:49,020] epo 500 mode test threshold 0.015 action classifier grab_classifier accuracy: 0.272, test fid 422.328, train fid 568.815, smoothness gt 0.059, smoothness 5.890, div at 100frame 0.000
+[2025-04-19 21:33:48,304] epo 500 mode test threshold 0.015 action classifier grab_classifier accuracy: 0.272, test fid 422.328, train fid 568.815, smoothness gt 0.059, smoothness 5.890, div at 100frame 0.000
+[2025-04-23 19:28:07,320] epo 500 mode test threshold 0.015 action classifier grab_classifier accuracy: 0.270, test fid 286.631, train fid 535.797, smoothness gt 0.049, smoothness 1.663, div at 100frame 0.000
+[2025-04-26 18:32:21,316] epo 500 mode test threshold 0.015 action classifier grab_classifier accuracy: 0.281, test fid 208.729, train fid 462.305, smoothness gt 0.049, smoothness 1.576, div at 100frame 0.000
+[2025-04-27 23:28:35,973] epo 500 mode test threshold 0.015 action classifier grab_classifier accuracy: 0.254, test fid 192.892, train fid 455.619, smoothness gt 0.049, smoothness 2.080, div at 100frame 0.000
+[2025-04-28 03:23:29,936] epo 500 mode test threshold 0.015 action classifier grab_classifier accuracy: 0.347, test fid 192.892, train fid 455.619, smoothness gt 0.049, smoothness 2.080, div at 100frame 0.000
+[2025-04-28 11:59:45,374] epo 500 mode train threshold 0.015 action classifier grab_classifier accuracy: 0.467, test fid 172.915, train fid 284.185, smoothness gt 0.051, smoothness 1.896, div at 100frame 0.000
+[2025-05-01 21:57:57,609] epo 500 mode test threshold 0.015 action classifier grab_classifier accuracy: 0.331, test fid 153.113, train fid 109.355, smoothness gt 0.047, smoothness 1.215, div at 100frame 0.000
+[2025-05-04 17:16:33,581] epo 500 mode train threshold 0.015 action classifier grab_classifier accuracy: 0.323, test fid 135.536, train fid 63.932, smoothness gt 0.049, smoothness 0.053, div at 100frame 0.000
+[2025-05-04 21:38:22,383] epo 500 mode test threshold 0.015 action classifier grab_classifier accuracy: 0.335, test fid 61.047, train fid 71.216, smoothness gt 0.047, smoothness 1.293, div at 100frame 0.000
+[2025-05-07 18:54:56,773] epo 500 mode test threshold 0.015 action classifier grab_classifier accuracy: 0.340, test fid 151.804, train fid 102.307, smoothness gt 0.047, smoothness 1.167, div at 100frame 0.000
+[2025-05-17 02:07:40,302] epo 500 mode test threshold 0.015 action classifier grab_classifier accuracy: 0.379, test fid 85.340, train fid 12.182, smoothness gt 0.047, smoothness 1.470, div at 100frame 0.000
+[2025-05-17 13:13:19,590] epo 500 mode test threshold 0.015 action classifier grab_classifier accuracy: 0.369, test fid 68.621, train fid 22.613, smoothness gt 0.047, smoothness 1.439, div at 100frame 0.000
+[2025-05-17 20:38:38,494] epo 500 mode test threshold 0.015 action classifier grab_classifier accuracy: 0.385, test fid 122.810, train fid 6.053, smoothness gt 0.047, smoothness 1.409, div at 100frame 0.000
+[2025-05-18 17:26:44,744] epo 500 mode test threshold 0.015 action classifier grab_classifier accuracy: 0.379, test fid 85.340, train fid 12.182, smoothness gt 0.047, smoothness 1.470, div at 100frame 0.000
+[2025-05-18 23:01:15,362] epo 500 mode test threshold 0.015 action classifier grab_classifier accuracy: 0.379, test fid 85.340, train fid 12.182, smoothness gt 0.047, smoothness 1.470, div at 100frame 0.000, ADE: 3.208, ADEw: 3.206
